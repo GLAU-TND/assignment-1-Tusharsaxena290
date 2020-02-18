@@ -4,5 +4,7 @@ public interface javaAdt<E> {
     void add();
     void remove();
 
+    void search();
+
 
 }
